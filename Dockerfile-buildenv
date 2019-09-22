@@ -33,5 +33,5 @@ RUN mkdir -p /build/go-build \
 LABEL Description="ssh-cert-authority builder"
 
 ENV GOPATH=/build/ssh-cert-authority/go
-RUN mkdir -p $GOPATH/src/github.com/cloudtools/ssh-cert-authority
-WORKDIR $GOPATH/src/github.com/cloudtools/ssh-cert-authority
+RUN mkdir -p $GOPATH/src/github.com/erik13121/ssh-cert-authority
+WORKDIR $GOPATH/src/github.com/erik13121/ssh-cert-authority

@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/cloudtools/ssh-cert-authority/version"
+	"github.com/erik13121/ssh-cert-authority/version"
 	"github.com/codegangsta/cli"
 	"os"
 )

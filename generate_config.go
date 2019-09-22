@@ -3,7 +3,7 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/cloudtools/ssh-cert-authority/util"
+	"github.com/erik13121/ssh-cert-authority/util"
 	"github.com/codegangsta/cli"
 	"io/ioutil"
 	"net/http"

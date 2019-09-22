@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/cloudtools/ssh-cert-authority/util"
+	"github.com/erik13121/ssh-cert-authority/util"
 	"golang.org/x/crypto/ssh"
 	"testing"
 )

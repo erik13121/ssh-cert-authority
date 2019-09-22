@@ -4,7 +4,7 @@ import (
 	"encoding/base64"
 	"encoding/json"
 	"fmt"
-	"github.com/cloudtools/ssh-cert-authority/util"
+	"github.com/erik13121/ssh-cert-authority/util"
 	"github.com/codegangsta/cli"
 	"golang.org/x/crypto/ssh"
 	"io/ioutil"

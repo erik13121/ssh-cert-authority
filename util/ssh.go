@@ -2,7 +2,7 @@ package ssh_ca_util
 
 import (
 	"fmt"
-	"github.com/cloudtools/ssh-cert-authority/signer"
+	"github.com/erik13121/ssh-cert-authority/signer"
 	"golang.org/x/crypto/ssh"
 	"golang.org/x/crypto/ssh/agent"
 	"io"
