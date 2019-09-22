@@ -8,8 +8,8 @@ github.com/aws/aws-sdk-go v1.15.76 h1:AZB4clNWIk13YJaTm07kqyrHkj7gZYBQCgyTh/v4Se
 github.com/aws/aws-sdk-go v1.15.76/go.mod h1:E3/ieXAlvM0XWO57iftYVDLLvQ824smPP3ATZkfNZeM=
 github.com/beorn7/perks v0.0.0-20180321164747-3a771d992973/go.mod h1:Dwedo/Wpr24TaqPxmxbtue+5NUziq4I4S80YR8gNf3Q=
 github.com/client9/misspell v0.3.4/go.mod h1:qj6jICC3Q7zFZvVWo7KLAzC3yx5G7kyvSDkc90ppPyw=
-github.com/erik13121/ssh-cert-authority v0.0.0-20190831142453-6b5b634aa4ab h1:ciOmmmDXURcAxunI8h6ZsLhiCJ80JL1OGDXe5hp74Jc=
-github.com/erik13121/ssh-cert-authority v0.0.0-20190831142453-6b5b634aa4ab/go.mod h1:0WZzDpP8UKP/KKhHxQyS6vQz9G3B7tbzk3RSkxwmb4o=
+github.com/erik13121/ssh-cert-authority v0.0.0-20190922151000-1266cbce11d0 h1:ciOmmmDXURcAxunI8h6ZsLhiCJ80JL1OGDXe5hp74Jc=
+github.com/erik13121/ssh-cert-authority v0.0.0-20190922151000-1266cbce11d0/go.mod h1:0WZzDpP8UKP/KKhHxQyS6vQz9G3B7tbzk3RSkxwmb4o=
 github.com/codegangsta/cli v1.20.0 h1:iX1FXEgwzd5+XN6wk5cVHOGQj6Q3Dcp20lUeS4lHNTw=
 github.com/codegangsta/cli v1.20.0/go.mod h1:/qJNoX69yVSKu5o4jLyXAENLRyk1uhi7zkbQ3slBdOA=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
