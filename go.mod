@@ -1,4 +1,4 @@
-module github.com/cloudtools/ssh-cert-authority
+module github.com/erik13121/ssh-cert-authority
 
 require (
 	cloud.google.com/go v0.33.0
@@ -20,3 +20,5 @@ require (
 	google.golang.org/api v0.0.0-20181114235557-83a9d304b1e6
 	google.golang.org/genproto v0.0.0-20181109154231-b5d43981345b
 )
+
+go 1.13
