@@ -3,7 +3,7 @@ module github.com/erik13121/ssh-cert-authority
 require (
 	cloud.google.com/go v0.33.0
 	github.com/aws/aws-sdk-go v1.15.76
-	github.com/erik13121/ssh-cert-authority v0.0.0-20190831142453-6b5b634aa4ab
+	github.com/erik13121/ssh-cert-authority v0.0.0-20190831142453-ea88ccec70
 	github.com/codegangsta/cli v1.20.0
 	github.com/gorilla/handlers v1.4.0
 	github.com/gorilla/mux v1.6.2
