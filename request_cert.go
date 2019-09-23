@@ -139,7 +139,7 @@ func requestCert(c *cli.Context) error {
 		return cli.NewExitError("No SSH fingerprint found. Try setting PublicKeyFingerprint in requester config.", 1)
 	}
 
-	conn, err := net.Dial("af_unix", os.Getenv("SSH_AUTH_SOCK"))
+	conn, err := net.Dial("unixgram", os.Getenv("SSH_AUTH_SOCK"))
 	if err != nil {
 		return cli.NewExitError(fmt.Sprintf("Dial failed: %s", err), 1)
 	}
