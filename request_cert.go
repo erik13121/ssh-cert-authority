@@ -141,7 +141,7 @@ func requestCert(c *cli.Context) error {
 
 	var address = net.UnixAddr{os.Getenv("SSH_AUTH_SOCK"), "unix"}
 	fmt.Println(address)
-	conn, err := net.DialUnix("af_unix", nil, &address)
+	conn, err := net.DialUnix("unix", $address, &address)
 	if err != nil {
 		return cli.NewExitError(fmt.Sprintf("Dial failed: %s", err), 1)
 	}
